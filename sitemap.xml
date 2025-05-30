@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://thewildwestmidis.github.io</loc>
+  <loc>https://kuhais.github.io/sazrmidis/</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://thewildwestmidis.github.io/tutorial</loc>
+  <loc>https://kuhais.github.io/sazrmidis/tutorial</loc>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://thewildwestmidis.github.io/request</loc>
+  <loc>https://kuhais.github.io/sazrmidis/request</loc>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://thewildwestmidis.github.io/favorites</loc>
+  <loc>https://kuhais.github.io/sazrmidis/favorites</loc>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://thewildwestmidis.github.io/about</loc>
+  <loc>https://kuhais.github.io/sazrmidis/about</loc>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://thewildwestmidis.github.io/customlist</loc>
+  <loc>https://kuhais.github.io/sazrmidis/customlist</loc>
   <priority>0.70</priority>
 </url>
 </urlset>

@@ -1,4 +1,4 @@
-# The-Wild-West-Midis
+# Something-About-Zombies-Remaster
 A page that has over 1k+ midis and useful features
 
 ## Features:
@@ -9,4 +9,4 @@ A page that has over 1k+ midis and useful features
 - More features!!
 
 
-### Link: https://thewildwestmidis.github.io/
+### Link: https://kuhais.github.io/sazrmidis/
